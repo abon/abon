@@ -5,21 +5,46 @@
 
 # Hi, my name is Abdullah 
 
+
 [![YouTube](https://img.shields.io/badge/%20-Vlog-black?color=545B60&labelColor=c4302b&logo=youtube&logoColor=FFFFFF)](https://www.youtube.com/channel/UCTez9BrKDCRXT29DB7n9mzQ?view_as=subscriber)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=545B60&labelColor=0e76a8&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/samadovabdullah/)
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=545B60&labelColor=00acee&logo=twitter&logoColor=FFFFFF&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Diam_abdulloh&suffix=%20Followers)](https://twitter.com/iam_abdulloh)
 [![YouTube](https://img.shields.io/badge/%20-CodeSandBox-black?color=545B60&labelColor=ffffff&logo=codesandbox&logoColor=545B60)](https://codesandbox.io/u/abon)
 
+
+####About
+
+```json
+
+Hi, my name is
+
+Abdullah Samadov
+
+I am a software engineer based in Tashkent, Uzbekistan specializing in building 
+(and occasionally designing) 
+exceptional websites, applications, and everything in between.
+
+```
+
  
+###
 
-I am a software engineer based in Tashkent, Uzbekistan specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.
 
-### Things you should know
+**Languages and Tools:**  
+
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
+
+
+
+### Things to note
 
 - 🔭 <b>Currently working on:</b> React.js
 - 🌱 <b>Getting better at:</b> Javascript, Python
-- 🤔 <b>Exploring:</b> Gatsby.js, Next.js
-- ⚗️ <b>Experimenting on:</b> Automated code generation
+- 🔬 <b>Exploring:</b> Gatsby.js, Next.js
 
 ### My Stacks
 
