@@ -12,25 +12,6 @@
 [![YouTube](https://img.shields.io/badge/%20-CodeSandBox-black?color=545B60&labelColor=ffffff&logo=codesandbox&logoColor=545B60)](https://codesandbox.io/u/abon)
 
 
-
-
-
-
-
-###About
-
-```json
-
-Hi, my name is
-
-Abdullah Samadov
-
-I am a software engineer based in Tashkent, Uzbekistan specializing in building 
-(and occasionally designing) 
-exceptional websites, applications, and everything in between.
-
-```
-
  
 ###
 
@@ -43,6 +24,21 @@ exceptional websites, applications, and everything in between.
 <img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
 
+
+
+####About
+
+```json
+
+Hi, my name is
+
+Abdullah Samadov
+
+I am a software engineer based in Tashkent, Uzbekistan specializing in building 
+(and occasionally designing) 
+exceptional websites, applications, and everything in between.
+
+```
 
 
 ### Things to note
