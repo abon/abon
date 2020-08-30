@@ -48,8 +48,8 @@
 
 <p align="center">
 <a href="https://abdulloh.codes"><img alt="Website" src="https://img.shields.io/badge/-abdulloh.codes-red?style=flat&color=2C2E56&labelColor=2C2E56&logo=google-chrome&logoColor=6ED57E"></a>
-<a href="https://www.linkedin.com/in/samadovabdullah-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=linkedin&logoColor=6ED57E"></a>
-<a href="https://twitter.com/iam_abdullah"><img alt="Twitter" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=twitter&logoColor=6ED57E"></a>
+<a href="https://www.linkedin.com/in/samadovabdullah/"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=linkedin&logoColor=6ED57E"></a>
+<a href="https://twitter.com/iam_abdulloh"><img alt="Twitter" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=twitter&logoColor=6ED57E"></a>
 <a href="https://devslab.tech"><img alt="Blog" src="https://img.shields.io/badge/Devs%20Lab-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=blogger&logoColor=6ED57E"></a>
 </p>
 
