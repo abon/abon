@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/{abon}/{abon})
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev/visits/abon/abon)
 
 <!--
 **abon/abon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
