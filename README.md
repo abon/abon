@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/52652937/91657479-9d3cd080-eada-11ea-8f80-99628bdb56f8.png" alt="Abdullah's Banner">
 
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=abon&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Github Stats"/>](https://github.com/Geektrovert)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=abon&&show_icons=true&theme=tokyonight&count_private=true" alt="Geektrovert's Github Stats"/>](https://github.com/abon)
 
 # Hi, my name is Abdullah 
 
