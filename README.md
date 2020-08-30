@@ -12,7 +12,7 @@
 [![YouTube](https://img.shields.io/badge/%20-CodeSandBox-black?color=545B60&labelColor=ffffff&logo=codesandbox&logoColor=545B60)](https://codesandbox.io/u/abon)
 
 
-**I am a software engineer based in Tashkent, Uzbekistan specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.**
+**✨ I am a software engineer based in Tashkent, Uzbekistan specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.**
 
 
 **Languages and Tools:**  
