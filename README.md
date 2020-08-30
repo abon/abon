@@ -47,13 +47,12 @@
 ## Connect with Me 🤝🏻
 
 <p align="center">
-<a href="https://abdulloh.codes"><img alt="Website" src="https://img.shields.io/badge/Website-abdulloh.codes-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/samadovabdullah-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Abdullah%20Samadov-blue?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/iam_abdullah"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Abdullah%20Samadov-blue?style=flat&logo=twitter"></a>
-<a href="https://devslab.tech.r"><img alt="Blog" src="https://img.shields.io/badge/Medium-Devs%20Lab-blue?style=flat&logo=medium"></a>
+<a href="https://abdulloh.codes"><img alt="Website" src="https://img.shields.io/badge/-abdulloh.codes-red?style=flat&color=496075&labelColor=496075&logo=google-chrome&logoColor=C2F1DB"></a>
+<a href="https://www.linkedin.com/in/samadovabdullah-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=2C2E56&labelColor=2C2E56&logo=linkedin&logoColor=6ED57E"></a>
+<a href="https://twitter.com/iam_abdullah"><img alt="Twitter" src="https://img.shields.io/badge/Abdullah%20Samadov-blue?style=flat&color=545B60&labelColor=545B60&logo=twitter&logoColor=FBEB58"></a>
+<a href="https://devslab.tech"><img alt="Blog" src="https://img.shields.io/badge/Devs%20Lab-blue?style=flat&color=67C392&labelColor=67C392&logo=blogger&logoColor=F9F6F4"></a>
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abon">
 </p>
-
 
 
 #### Happy coding!
