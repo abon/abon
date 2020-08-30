@@ -12,10 +12,6 @@
 [![YouTube](https://img.shields.io/badge/%20-CodeSandBox-black?color=545B60&labelColor=ffffff&logo=codesandbox&logoColor=545B60)](https://codesandbox.io/u/abon)
 
 
- 
-###
-
-
 **Languages and Tools:**  
 
 <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -26,9 +22,9 @@
 
 
 
-####About
+#### About
 
-```json
+
 
 Hi, my name is
 
@@ -38,7 +34,7 @@ I am a software engineer based in Tashkent, Uzbekistan specializing in building
 (and occasionally designing) 
 exceptional websites, applications, and everything in between.
 
-```
+
 
 
 ### Things to note
