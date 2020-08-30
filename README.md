@@ -44,4 +44,16 @@
 }
 ```
 
+## Connect with Me 🤝🏻
+
+<p align="center">
+<a href="https://abdulloh.codes"><img alt="Website" src="https://img.shields.io/badge/Website-abdulloh.codes-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/samadovabdullah-r/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIN-Abdullah%20Samadov-blue?style=flat&logo=linkedin"></a>
+<a href="https://twitter.com/iam_abdullah_R"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Abdullah%20Samadov-blue?style=flat&logo=twitter"></a>
+<a href="https://devslab.tech.r"><img alt="Blog" src="https://img.shields.io/badge/Medium-Devs%20Lab-blue?style=flat&logo=medium"></a>
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=abon">
+</p>
+
+
+
 #### Happy coding!
